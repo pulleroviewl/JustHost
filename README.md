@@ -9,8 +9,8 @@ JustHost.ru 是一家成立于2006年的俄罗斯老牌主机商，目前已经�
 - **主站**: [JustHost 主站](https://justhost.ru/services/vps/?ref=196392)
 - **镜像站**: [JustHost Asia](https://justhost.asia/?ref=196392) - 目前国内可访问
 - **镜像站**: [Just Hosting](https://just.hosting/?ref=196392) - 目前国内可访问
--
-- ![image](https://github.com/pulleroviewl/JustHost/assets/157681159/e30da8e8-7902-4f0b-81b5-556eb2bbf95c)
+
+ ![image](https://github.com/pulleroviewl/JustHost/assets/157681159/e30da8e8-7902-4f0b-81b5-556eb2bbf95c)
 
 
 ## JustHost 优惠码
